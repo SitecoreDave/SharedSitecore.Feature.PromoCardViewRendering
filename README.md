@@ -1,0 +1,2 @@
+# SharedSitecore.Feature.PromoCardViewRendering
+Sitecore PromoCard ViewRendering Feature
